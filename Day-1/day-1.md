@@ -4,14 +4,14 @@
 [![YouTube](https://img.shields.io/badge/Playlist-YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/playlist?list=... ) <!-- add real playlist link -->
 [![Status](https://img.shields.io/badge/Status-Ongoing-yellow?style=flat-square)](https://github.com/yourusername/mastering-c)
 
-## 🎯 What You'll Learn
+## What You'll Learn
 - Core programming logic & problem-solving mindset
 - Data types, variables, operators, control structures
 - Functions, arrays, strings, pointers & dynamic memory
 - Structures, file I/O, preprocessor directives
 - Best practices & debugging in C
 
-## 📺 Full Playlist
+##  Full Playlist
 Watch the complete series here:  
 🔗 [Mastering C Programming Playlist](https://www.youtube.com/playlist?list=...)  
 (Replace with actual playlist URL when available)

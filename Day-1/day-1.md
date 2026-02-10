@@ -66,9 +66,8 @@ To turn your C code into something the computer can run, we use a **Translation 
 
 | Level      | Description                                      | Examples              |
 |------------|--------------------------------------------------|-----------------------|
-| **Low-Level** | Close to hardware; difficult for humans to read | Assembly, B Language |
 | **High-Level** | Uses human-friendly words; easy to read         | Python, Ruby         |
-| **Mid-Level** | Offers low-level power with high-level readability | **C Language**      |
+| **Low-Level** | Offers low-level power with high-level readability | **C Language**      |
 
 ##  Environment Setup
 

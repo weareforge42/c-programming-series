@@ -86,3 +86,14 @@ To turn your C code into something the computer can run, we use a **Translation 
         - C/C++ by Microsoft
         - C/C++ Extension Pack    
      
+# Full Video Lecture
+[Introduction to C Programming | Day-1 | Mastering C](https://youtu.be/rPHYL4pihck?si=h0MmQUVtRVtrlPpA)
+(Watch the complete explanation with live setup demo)
+
+# Connect & Stay Updated
+YouTube: [Mubtasim Fuad (Subscribe for the full series)](https://www.youtube.com/@mubtasimf)
+Facebook Group: [Forge Community](https://www.facebook.com/groups/1290165036253740)
+Telegram: [We Are Forge](https://t.me/weareforge42)
+
+Happy learning!
+Master the foundations today — code tomorrow. 💻🔥
